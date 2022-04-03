@@ -197,7 +197,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[1]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -212,7 +212,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[1]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -229,7 +229,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[1]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -250,7 +250,7 @@ externo: while (true) {
                         );
                         console.log();
                         console.log(
-                            `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                            `HORÁRIO: ${hora} horas da ${diasDaSemana[1]}`,
                         );
                         console.log();
                         console.log(
@@ -292,7 +292,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[2]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -307,7 +307,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[2]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -324,7 +324,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[2]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -345,7 +345,7 @@ externo: while (true) {
                         );
                         console.log();
                         console.log(
-                            `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                            `HORÁRIO: ${hora} horas da ${diasDaSemana[2]}`,
                         );
                         console.log();
                         console.log(
@@ -389,7 +389,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[3]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -404,7 +404,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[3]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -421,7 +421,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[3]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -442,7 +442,7 @@ externo: while (true) {
                         );
                         console.log();
                         console.log(
-                            `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                            `HORÁRIO: ${hora} horas da ${diasDaSemana[3]}`,
                         );
                         console.log();
                         console.log(
@@ -484,7 +484,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[4]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -499,7 +499,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[4]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -516,7 +516,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[4]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -537,7 +537,7 @@ externo: while (true) {
                         );
                         console.log();
                         console.log(
-                            `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                            `HORÁRIO: ${hora} horas da ${diasDaSemana[4]}`,
                         );
                         console.log();
                         console.log(
@@ -579,7 +579,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[5]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -594,7 +594,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[5]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -611,7 +611,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[5]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -632,7 +632,7 @@ externo: while (true) {
                         );
                         console.log();
                         console.log(
-                            `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                            `HORÁRIO: ${hora} horas do ${diasDaSemana[5]}`,
                         );
                         console.log();
                         console.log(
@@ -674,7 +674,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[6]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -689,7 +689,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[6]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -706,7 +706,7 @@ externo: while (true) {
                                 );
                                 console.log();
                                 console.log(
-                                    `HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`,
+                                    `HORÁRIO: ${hora} horas do ${diasDaSemana[6]}`,
                                 );
                                 console.log();
                                 console.log(
@@ -729,7 +729,7 @@ externo: while (true) {
                         );
                     }
                     console.log();
-                    console.log(`HORÁRIO: ${hora} horas da ${diasDaSemana[0]}`);
+                    console.log(`HORÁRIO: ${hora} horas do ${diasDaSemana[6]}`);
                     console.log();
                     console.log(
                         `MONTANTE PRA VIAGEM: ${personagem.dinheiroDisponivel} DINHEIRO.`,
